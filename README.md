@@ -21,7 +21,7 @@ I'm an **Aspiring Data Analyst & Data Scientist** 💼📊 with a passion for us
 
 ## Interests
 
-I explore data across various fields, including finance 💰, linguistics 🗣️, and  business 💼. My diverse interests also include human rights 🌍, political science 🏛️, and the music industry 🎶, which shape my approach to solving data challenges.
+I explore data across various fields, including finance 💰, linguistics 🗣️, and business 💼. My diverse interests also include human rights 🌍, political science 🏛️, the music industry 🎶, and **International Affairs** 🌐, which shape my approach to solving data challenges.
 
 ## Projects
 
@@ -29,5 +29,4 @@ Check out my repositories to see the projects I’m working on! 🚀
 
 ## Contact
 
-
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/giuseppemarchiello) or reach out via [email](giuseppemarchiello19@gmail.com). 📬
+Feel free to connect with me on [LinkedIn](your-linkedin-profile) or reach out via [email](mailto:your-email@example.com). 📬
