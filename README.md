@@ -29,4 +29,4 @@ Check out my repositories to see the projects I’m working on! 🚀
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile) or reach out via [email](mailto:your-email@example.com). 📬
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/giuseppemarchiello) or reach out via [email](mailto:giuseppemarchiello19@gmail.com). 📬
