@@ -21,7 +21,7 @@ I'm an **Aspiring Data Analyst & Data Scientist** 💼📊 with a passion for us
 
 ## Interests
 
-I explore data across various fields, including finance 💰, linguistics 🗣️, and business 💼. My diverse interests also include human rights 🌍, political science 🏛️, the music industry 🎶, and **International Affairs** 🌐, which shape my approach to solving data challenges.
+I explore data across various fields, including Finance 💰, Linguistics 🗣️, and Business 💼. My diverse interests also include Human Rights 🌍, Political Science 🏛️, the Music Industry 🎶, and International Affairs 🌐, which shape my approach to solving data challenges.
 
 ## Projects
 
